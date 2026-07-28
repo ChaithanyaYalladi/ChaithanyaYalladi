@@ -32,7 +32,7 @@ I'm a passionate and self-motivated **AI & Data Science graduate** with a strong
 * Django
 * React.js
 * Node.js
-* Express.js
+
 
 ### Databases
 
